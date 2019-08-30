@@ -1,4 +1,4 @@
-# hello-world
+# hello
 Mysql commands to create company database
 create database compony;
 show databases;
